@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/saranonearth/Techspardha19/static/css/main.1200e793.chunk.css",
-    "main.js": "/saranonearth/Techspardha19/static/js/main.d948970b.chunk.js",
-    "main.js.map": "/saranonearth/Techspardha19/static/js/main.d948970b.chunk.js.map",
-    "runtime~main.js": "/saranonearth/Techspardha19/static/js/runtime~main.1214a9dd.js",
-    "runtime~main.js.map": "/saranonearth/Techspardha19/static/js/runtime~main.1214a9dd.js.map",
-    "static/js/2.e6c2db75.chunk.js": "/saranonearth/Techspardha19/static/js/2.e6c2db75.chunk.js",
-    "static/js/2.e6c2db75.chunk.js.map": "/saranonearth/Techspardha19/static/js/2.e6c2db75.chunk.js.map",
-    "index.html": "/saranonearth/Techspardha19/index.html",
-    "precache-manifest.011b098d20f6f4abc336f006d2c6cd08.js": "/saranonearth/Techspardha19/precache-manifest.011b098d20f6f4abc336f006d2c6cd08.js",
-    "service-worker.js": "/saranonearth/Techspardha19/service-worker.js",
-    "static/css/main.1200e793.chunk.css.map": "/saranonearth/Techspardha19/static/css/main.1200e793.chunk.css.map",
-    "static/media/index.css": "/saranonearth/Techspardha19/static/media/grains.ce1901dd.png"
+    "main.css": "/Techspardha19/static/css/main.9e4ccf95.chunk.css",
+    "main.js": "/Techspardha19/static/js/main.e22a7a86.chunk.js",
+    "main.js.map": "/Techspardha19/static/js/main.e22a7a86.chunk.js.map",
+    "runtime~main.js": "/Techspardha19/static/js/runtime~main.cad44c08.js",
+    "runtime~main.js.map": "/Techspardha19/static/js/runtime~main.cad44c08.js.map",
+    "static/js/2.3f4b8e5f.chunk.js": "/Techspardha19/static/js/2.3f4b8e5f.chunk.js",
+    "static/js/2.3f4b8e5f.chunk.js.map": "/Techspardha19/static/js/2.3f4b8e5f.chunk.js.map",
+    "index.html": "/Techspardha19/index.html",
+    "precache-manifest.2097ed9a3500c9f8cd923463ce11c2f6.js": "/Techspardha19/precache-manifest.2097ed9a3500c9f8cd923463ce11c2f6.js",
+    "service-worker.js": "/Techspardha19/service-worker.js",
+    "static/css/main.9e4ccf95.chunk.css.map": "/Techspardha19/static/css/main.9e4ccf95.chunk.css.map",
+    "static/media/index.css": "/Techspardha19/static/media/grains.ce1901dd.png"
   }
 }
