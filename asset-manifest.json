@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Techspardha19/static/css/main.9e4ccf95.chunk.css",
-    "main.js": "/Techspardha19/static/js/main.a831de9a.chunk.js",
-    "main.js.map": "/Techspardha19/static/js/main.a831de9a.chunk.js.map",
+    "main.css": "/Techspardha19/static/css/main.39a04972.chunk.css",
+    "main.js": "/Techspardha19/static/js/main.883ae05d.chunk.js",
+    "main.js.map": "/Techspardha19/static/js/main.883ae05d.chunk.js.map",
     "runtime~main.js": "/Techspardha19/static/js/runtime~main.cad44c08.js",
     "runtime~main.js.map": "/Techspardha19/static/js/runtime~main.cad44c08.js.map",
-    "static/js/2.3f4b8e5f.chunk.js": "/Techspardha19/static/js/2.3f4b8e5f.chunk.js",
-    "static/js/2.3f4b8e5f.chunk.js.map": "/Techspardha19/static/js/2.3f4b8e5f.chunk.js.map",
+    "static/js/2.254df10b.chunk.js": "/Techspardha19/static/js/2.254df10b.chunk.js",
+    "static/js/2.254df10b.chunk.js.map": "/Techspardha19/static/js/2.254df10b.chunk.js.map",
     "index.html": "/Techspardha19/index.html",
-    "precache-manifest.ee4f7e449b57f728eba6eaffcd291b43.js": "/Techspardha19/precache-manifest.ee4f7e449b57f728eba6eaffcd291b43.js",
+    "precache-manifest.402d9ad3ebe9e1e68c992700ddf7da08.js": "/Techspardha19/precache-manifest.402d9ad3ebe9e1e68c992700ddf7da08.js",
     "service-worker.js": "/Techspardha19/service-worker.js",
-    "static/css/main.9e4ccf95.chunk.css.map": "/Techspardha19/static/css/main.9e4ccf95.chunk.css.map",
+    "static/css/main.39a04972.chunk.css.map": "/Techspardha19/static/css/main.39a04972.chunk.css.map",
     "static/media/index.css": "/Techspardha19/static/media/grains.ce1901dd.png"
   }
 }
