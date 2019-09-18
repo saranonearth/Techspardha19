@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec4b9c53d42f2644a485df3b73513871",
+    "revision": "bff9d7bb14bcddce3454e9dc5bb636f9",
     "url": "/Techspardha19/index.html"
   },
   {
-    "revision": "004065d4bf2505f5dd1e",
-    "url": "/Techspardha19/static/css/main.f615383a.chunk.css"
+    "revision": "114aa80c52a1430d7525",
+    "url": "/Techspardha19/static/css/main.5770c96d.chunk.css"
   },
   {
-    "revision": "86d69b125cd511f44145",
-    "url": "/Techspardha19/static/js/2.b7f3a5b2.chunk.js"
+    "revision": "2dbf1d57a10be92b0d07",
+    "url": "/Techspardha19/static/js/2.d7907d04.chunk.js"
   },
   {
-    "revision": "004065d4bf2505f5dd1e",
-    "url": "/Techspardha19/static/js/main.57187cb1.chunk.js"
+    "revision": "114aa80c52a1430d7525",
+    "url": "/Techspardha19/static/js/main.ab94c123.chunk.js"
   },
   {
     "revision": "7d416010e808f14c7444",
